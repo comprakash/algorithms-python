@@ -19,6 +19,11 @@ Algorithms and Data Structures in Python
 
 https://wiki.python.org/moin/TimeComplexity
 
+## Project Execution
+
+### Run Tests
+$ `pytest`
+
 ## Useful Links
 
 https://www.bigocheatsheet.com/
