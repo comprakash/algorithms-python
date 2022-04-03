@@ -12,6 +12,8 @@ def find_missing_element(number_array_1: List[int], number_array_2: List[int]) -
     Input: finder([1,2,3,4,5,6,7],[3,7,2,1,4,6])
     Output: 5 is the missing number
 
+    Uses XOR concept
+
     :param number_array_1:
     :param number_array_2:
     :return:
