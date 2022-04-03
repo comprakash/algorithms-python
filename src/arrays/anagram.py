@@ -9,6 +9,17 @@ def check_if_anagram_using_sort(input1: str, input2: str) -> bool:
 
 
 def check_if_anagram(input1: str, input2: str) -> bool:
+    """
+    Given two strings, check to see if they are anagrams.
+    An anagram is when the two strings can be written using the exact same letters.
+    So you can just rearrange the letters to get a different phrase or word.
+    For example:
+    "public relations" is an anagram of "crap built on lies."
+    "clint eastwood" is an anagram of "old west action"
+    :param input1: First Input Sentence
+    :param input2: Second Input Sentence
+    :return: bool: Whether the strings are Anagrams or not
+    """
     cleaned_input1 = [letter for letter in input1.lower() if letter.isalnum()]
     cleaned_input2 = [letter for letter in input2.lower() if letter.isalnum()]
     is_anagram = False
