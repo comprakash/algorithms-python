@@ -1,4 +1,4 @@
-from arrays.missing_element import find_missing_element, find_missing_element_using_hash_key
+from array.missing_element import find_missing_element, find_missing_element_using_hash_key
 
 
 def test_find_missing_element_success():

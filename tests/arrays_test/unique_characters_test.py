@@ -1,4 +1,4 @@
-from arrays.unique_characters import check_unique_characters, check_unique_characters_using_set
+from array.unique_characters import check_unique_characters, check_unique_characters_using_set
 
 
 def test_check_unique_characters():

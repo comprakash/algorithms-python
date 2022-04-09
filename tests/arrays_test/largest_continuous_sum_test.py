@@ -1,4 +1,4 @@
-from arrays.largest_continous_sum import find_largest_continuous_sum, find_largest_continuous_sum_using_window
+from array.largest_continous_sum import find_largest_continuous_sum, find_largest_continuous_sum_using_window
 
 
 def test_largest_continuous_sum():

@@ -1,4 +1,4 @@
-from arrays.sentence_reversal import get_sentence_reversed
+from array.sentence_reversal import get_sentence_reversed
 
 
 def test_get_sentence_reversed():

@@ -1,4 +1,4 @@
-from arrays.anagram import check_if_anagram, check_if_anagram_using_sort
+from array.anagram import check_if_anagram, check_if_anagram_using_sort
 
 
 def test_anagram_success():

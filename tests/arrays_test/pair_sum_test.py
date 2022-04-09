@@ -1,4 +1,4 @@
-from arrays.pair_sum import get_pair_sum
+from array.pair_sum import get_pair_sum
 
 
 def test_pair_sum_found():

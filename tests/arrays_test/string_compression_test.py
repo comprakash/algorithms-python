@@ -1,4 +1,4 @@
-from arrays.string_compression import compress_repeating_letters
+from array.string_compression import compress_repeating_letters
 
 
 def test_compress_repeating_letters():
